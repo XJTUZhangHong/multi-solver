@@ -1,0 +1,3 @@
+D:/Research/Multi Component/multi-solver/build/CMakeFiles/solver.dir
+D:/Research/Multi Component/multi-solver/build/CMakeFiles/edit_cache.dir
+D:/Research/Multi Component/multi-solver/build/CMakeFiles/rebuild_cache.dir
